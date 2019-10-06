@@ -1,0 +1,11 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href= staticAssetsPath + '/client.css')
+  body
+    #app
+
+    block content
+    block scripts
+      script(src= staticAssetsPath + '/client.bundle.js')
