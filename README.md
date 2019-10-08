@@ -12,25 +12,25 @@ I got some messages from people asking me if I use any template for hackathons, 
 
 2. Go to the project folder and run:
 
-    ```yarn install```
+    ```$ yarn install```
 
 3. Now in order to develop locally you simply need to run:
 
-    ```yarn dev```
+    ```$ yarn dev```
     
    This will create two servers, one of the backend servers and the other one a dev server for the react application.
 
 ## 2. Hot reload
 
-In development, all your frontend assets and the app will be automatically rebuilt! Also, it will automatically reload the browser! Yay.
+In development, all your frontend assets and the app will be automatically rebuilt on changes while updating the browser.
 
-*Note* If you do changes to the backend, you will need to manually refresh the website. Sorry guys didn't have time to do this (and it's late now)! haha.
+> *Note*: If you do changes to the backend, you will need to manually refresh the website. Sorry guys didn't have time to do this (and it's late now)! haha.
 
 ## 3. Tech stack
 
-* **React:** A JavaScript library for building user interfaces
-* **Webpack:** is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included. 
-* **Express:** is a web application framework for Node.js. It is designed for building web applications and APIs.
+* **React:** It's a JavaScript library for building user interfaces created by Facebook.
+* **Webpack:** It's an open-source JavaScript module bundler. It is primarily built for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included. 
+* **Express:** It's a web application framework for Node.js. It is designed for building web applications and APIs.
 
 ## 4. Architecture: Yarn Workspaces
 
