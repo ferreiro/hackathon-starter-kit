@@ -28,11 +28,14 @@ In development, all your frontend assets and the app will be automatically rebui
 
 ## Tech stack
 
-<img src="https://cdn-images-1.medium.com/max/1840/1*j8DELPVuI_w8045sxmHQsA.png" alt="" height="120px" />
-
 * **React:** A JavaScript library for building user interfaces
 * **Webpack:** is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included. 
 * **Express:** is a web application framework for Node.js. It is designed for building web applications and APIs.
+
+## Architecture: Yarn Workspaces
+
+To organize the project I'm using Yarn Workspaces. 
+Yarn workspaces let you organize your project codebase using a monolithic repository (monorepo). I wrote an article about [Yarn Workspaces](https://www.smashingmagazine.com/2019/07/yarn-workspaces-organize-project-codebase-pro/) in case you are interested.
 
 ## Follow me
 
