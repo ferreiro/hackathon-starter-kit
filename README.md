@@ -4,8 +4,6 @@ When we won a hackathon organized by Facebook, I spent the night before setting 
 
 I got some messages from people asking me if I use any template for hackathons, so I decided to extract the template from our Hackathon project, so everybody interested can fork and use it.
 
-<img src="https://cdn-images-1.medium.com/max/1840/1*j8DELPVuI_w8045sxmHQsA.png" alt="" height="120px" />
-
 ## How to install and develop locally?
 
 1. Clone this repo locally:
@@ -27,3 +25,18 @@ I got some messages from people asking me if I use any template for hackathons, 
 In development, all your frontend assets and the app will be automatically rebuilt! Also, it will automatically reload the browser! Yay.
 
 *Note* If you do changes to the backend, you will need to manually refresh the website. Sorry guys didn't have time to do this (and it's late now)! haha.
+
+## Tech stack
+
+<img src="https://cdn-images-1.medium.com/max/1840/1*j8DELPVuI_w8045sxmHQsA.png" alt="" height="120px" />
+
+* **React:** A JavaScript library for building user interfaces
+* **Webpack:** is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included. 
+* **Express:** is a web application framework for Node.js. It is designed for building web applications and APIs.
+
+## Follow me
+
+* Twitter: [https://www.twitter.com/jgferreiro](https://www.twitter.com/jgferreiro)
+* Linkedin: [https://www.linkedin.com/in/jgferreiro/](https://www.linkedin.com/in/jgferreiro/)
+* Instagram: [https://www.instagram.com/jgferreiro/](https://www.instagram.com/jgferreiro/)
+
