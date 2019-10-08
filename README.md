@@ -34,8 +34,7 @@ In development, all your frontend assets and the app will be automatically rebui
 
 ## 4. Architecture: Yarn Workspaces
 
-To organize the project I'm using Yarn Workspaces. 
-Yarn workspaces let you organize your project codebase using a monolithic repository (monorepo). I wrote an article about [Yarn Workspaces](https://www.smashingmagazine.com/2019/07/yarn-workspaces-organize-project-codebase-pro/) in case you are interested.
+Yarn workspaces let you organize your project codebase using a monolithic repository (monorepo). I used it to built this project. If you wanna learn more, I wrote an article about [Yarn Workspaces for Smashing magazine](https://www.smashingmagazine.com/2019/07/yarn-workspaces-organize-project-codebase-pro/).
 
 ## Follow me
 
