@@ -1,4 +1,4 @@
-#  👨‍🎤 Jorge Ferreiros's hackathon template
+#  👨‍🎤 Jorge Ferreiros's hackathon starter kit
 
 When we won a hackathon organized by Facebook, I spent the night before setting up a good dev environment, so we could focus on building features, rather than wasting time setting up the local dev.
 
