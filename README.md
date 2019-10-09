@@ -2,7 +2,7 @@
 
 When we won a hackathon organized by Facebook, I spent the night before setting up a good dev environment, so we could focus on building features, rather than wasting time setting up the local dev.
 
-I got some messages from people asking me if I use any template for hackathons, so I decided to extract the template from our Hackathon project, so everybody interested can fork and use it.
+I got some messages from people asking me if I use any template for hackathons, so I decided to extract the template from our Hackathon project, so everybody interested can fork and use it 🙌
 
 ## 1. How to install and develop locally?
 
