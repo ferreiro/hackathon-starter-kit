@@ -20,7 +20,7 @@
     "@babel/core": "7.4.3",
     "@babel/node": "7.2.2",
     "@babel/preset-env": "7.6.2",
-    "nodemon": "1.18.11",
+    "nodemon": "2.0.12",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
